@@ -188,3 +188,5 @@ app.delete('/biodata/:id', (req, res) => {
         });
     });
 });
+
+//Example
